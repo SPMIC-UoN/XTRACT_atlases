@@ -1,3 +1,10 @@
+ __  _______ ____      _    ____ _____ 
+ \ \/ /_   _|  _ \    / \  / ___|_   _|
+  \  /  | | | |_) |  / _ \| |     | |  
+  /  \  | | |  _ <  / ___ \ |___  | |  
+ /_/\_\ |_| |_| \_\/_/   \_\____| |_|  
+
+
 XTRACT_atlases
 
 Reference: Warrington S, Bryant KL, Khrapitchev AA, Sallet J, Charquero-Ballester M, Douaud G, Jbabdi S, Mars RB*, Sotiropoulos SN* (in prep.) XTRACT - Standardised protocols for automated tractography and connectivity blueprints in the human and macaque brain.
