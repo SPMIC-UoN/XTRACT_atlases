@@ -1,6 +1,6 @@
 XTRACT_atlases
 
-Reference: Warrington S, Bryant KL, Khrapitchev AA, Sallet J, Charquero-Ballester M, Douaud G, Jbabdi S*, Mars RB*, Sotiropoulos SN* (Under Review) XTRACT - Standardised protocols for automated tractography in the human and macaque brain.
+Reference: Warrington S, Bryant KL, Khrapitchev AA, Sallet J, Charquero-Ballester M, Douaud G, Jbabdi S*, Mars RB*, Sotiropoulos SN* (2020). XTRACT - Standardised protocols for automated tractography in the human and macaque brain. NeuroImage, Volume 217, 116923
 
 Reference: https://doi.org/10.1016/j.neuroimage.2020.116923
 
